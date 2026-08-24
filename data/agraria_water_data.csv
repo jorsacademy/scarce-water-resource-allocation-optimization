@@ -1,0 +1,6 @@
+zone,demand_mcm,min_service_mcm,value_kusd_per_delivered_mcm,surface_efficiency,ground_efficiency
+North Plains,32,12,6100,0.90,0.97
+Central Valley,27,10,6800,0.92,0.96
+East Terraces,22,8,5900,0.88,0.95
+South Orchards,18,7,7400,0.94,0.98
+West Greenhouses,14,6,8600,0.96,0.99
